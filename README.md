@@ -1,12 +1,13 @@
 # Sam Underwood | Cybersecurity Portfolio
 
-I'm developing my cybersecurity skills through coursework and practical exercises. This portfolio documents my approach to assessing risks, reviewing security controls, and communicating recommendations.
+I'm developing my cybersecurity skills through coursework and practical exercises. This portfolio documents my approach to assessing risks, reviewing security controls, analysing network traffic, and communicating recommendations.
 
 ## Projects
 
 | Project | Focus | Deliverable |
 | --- | --- | --- |
 | [Botium Toys: Internal Security Audit](projects/botium-toys-audit/README.md) | Risk assessment, security controls, and compliance best practices | Controls assessment and prioritized recommendations |
+| [Network Traffic Analysis: DNS Service Interruption](projects/network-traffic-analysis/README.md) | DNS, UDP, ICMP, and interpretation of tcpdump logs | Incident report with findings, possible causes, and troubleshooting steps |
 
 ## Skills demonstrated
 
@@ -14,7 +15,9 @@ I'm developing my cybersecurity skills through coursework and practical exercise
 - Assessing administrative, technical, and physical controls
 - Evaluating evidence against compliance checklist requirements
 - Communicating security gaps and practical improvements
+- Analysing network traffic logs and documenting incident findings
+- Distinguishing observed evidence from suspected causes
 
 ## About this portfolio
 
-The Botium Toys project is an educational exercise involving a fictional business. It is not a professional certification of an organization's security or compliance. Additional projects will be added as my learning progresses.
+These projects are educational exercises involving fictional scenarios. They are not professional assessments of a live organisation's security or compliance. Additional projects will be added as my learning progresses.
