@@ -17,6 +17,14 @@ The scenario describes a monitoring alert, website connection timeouts, and an u
 - Connection resets and an HTTP 504 Gateway Time-out response indicate service problems affecting other clients.
 - The pattern is consistent with a suspected SYN flood denial-of-service (DoS) attack. The supplied log alone does not confirm resource exhaustion or establish a distributed attack.
 
+## Supporting evidence
+
+Selected packet-log screenshots supplied in the Google Cybersecurity Certificate coursework scenario and analysed in the report. These are provided exercise materials, not captures I collected from a live network.
+
+[View handshake, reset and timeout evidence](packet-log-handshakes.png) · [View continued SYN requests](packet-log-repeated-syn.png)
+
+![Supplied packet log showing TCP handshakes, repeated SYN requests, connection resets and an HTTP 504 response](packet-log-handshakes.png)
+
 ## How the attack affects availability
 
 A normal TCP connection starts with SYN, SYN/ACK and ACK. In a SYN flood, repeated requests leave handshakes unfinished. Tracking pending connections can consume server resources and prevent legitimate visitors from connecting.
