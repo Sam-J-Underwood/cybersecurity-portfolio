@@ -6,6 +6,12 @@ An educational incident analysis completed as part of the Google Cybersecurity C
 
 [Read the incident report (PDF)](network-traffic-analysis-report.pdf)
 
+## Supporting evidence
+
+Supplied tcpdump log from the Google Cybersecurity Certificate coursework scenario, analysed in the accompanying report.
+
+![Supplied tcpdump log showing repeated DNS requests and ICMP UDP port 53 unreachable responses](supplied-tcpdump-log.png)
+
 ## Findings
 
 - DNS requests were sent over UDP to 203.0.113.2 on port 53.
