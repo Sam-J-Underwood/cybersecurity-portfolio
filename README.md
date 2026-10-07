@@ -12,6 +12,9 @@ I'm developing my cybersecurity skills through coursework and practical exercise
 | [Botium Toys: Internal Security Audit](projects/botium-toys-audit/README.md) | Risk assessment, security controls, and compliance best practices | Controls assessment and prioritized recommendations |
 | [Network Traffic Analysis: DNS Service Interruption](projects/network-traffic-analysis/README.md) | DNS, UDP, ICMP, and interpretation of tcpdump logs | Incident report with findings, possible causes, and troubleshooting steps |
 | [SYN Flood Analysis: Website Service Interruption](projects/syn-flood-analysis/README.md) | TCP handshakes, SYN flood patterns, and denial-of-service impact | Incident report and supplied packet-log evidence |
+| [Website Compromise: Brute-Force Attack](projects/web-compromise-incident-analysis/README.md) | HTTP, DNS, TCP, website compromise, and authentication controls | Security incident report and evidence summary |
+
+
 
 ## Skills demonstrated
 
