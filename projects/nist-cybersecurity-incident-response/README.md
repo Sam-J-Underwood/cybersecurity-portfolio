@@ -4,11 +4,11 @@ An educational incident analysis from the Google Cybersecurity Certificate. This
 
 ## Report
 
-[Read the incident report (PDF)](Incident-Report-Analysis.pdf)
+[Read the incident report (PDF)](Incident%20report%20analysis.pdf)
 
 ## Scenario
 
-The coursework scenario describes an ICMP packet flood that disrupted access to internal network services for two hours. The report identifies an unconfigured firewall as a contributing weakness and discusses steps to contain the disruption and restore critical services.
+The coursework scenario describes an ICMP packet flood that disrupted access to a fictional multimedia company's internal network services for two hours. The report identifies an unconfigured firewall as a contributing weakness and discusses steps to contain the disruption and restore critical services.
 
 ## NIST CSF analysis
 
