@@ -12,6 +12,7 @@ I'm developing my cybersecurity skills through coursework and practical exercise
 | [Website Compromise: Brute-Force Attack](projects/web-compromise-incident-analysis/README.md) | HTTP, DNS, TCP, website compromise, and authentication controls | Security incident report and evidence summary |
 | [Network Hardening Analysis](projects/network-hardening-analysis/README.md) | Firewall rules, least privilege, and multifactor authentication | Security risk assessment and hardening recommendations |
 | [NIST Cybersecurity Framework: Incident Response Analysis](projects/nist-cybersecurity-incident-response/README.md) | ICMP flood DoS scenario and the five NIST CSF functions | Incident analysis and response recommendations |
+| [Linux File Permissions](projects/linux-file-permissions/README.md) | Linux permissions, `ls -la`, `chmod`, and least privilege | File permissions coursework report |
 
 ## Skills demonstrated
 
@@ -23,6 +24,8 @@ I'm developing my cybersecurity skills through coursework and practical exercise
 - Distinguishing observed evidence from suspected causes
 - Applying the NIST Cybersecurity Framework to an incident scenario
 - Communicating incident response and recovery recommendations
+- Inspecting and changing Linux file and directory permissions
+- Applying least privilege to files, hidden files, and directories
 
 ## About this portfolio
 
