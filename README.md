@@ -13,6 +13,7 @@ I'm developing my cybersecurity skills through coursework and practical exercise
 | [Network Hardening Analysis](projects/network-hardening-analysis/README.md) | Firewall rules, least privilege, and multifactor authentication | Security risk assessment and hardening recommendations |
 | [NIST Cybersecurity Framework: Incident Response Analysis](projects/nist-cybersecurity-incident-response/README.md) | ICMP flood DoS scenario and the five NIST CSF functions | Incident analysis and response recommendations |
 | [Linux File Permissions](projects/linux-file-permissions/README.md) | Linux permissions, `ls -la`, `chmod`, and least privilege | File permissions coursework report |
+| [Apply Filters to SQL Queries](projects/apply-filters-to-sql-queries/README.md) | SQL filtering of simulated login attempts and employee records | Six documented investigation queries and coursework PDF |
 
 ## Skills demonstrated
 
@@ -26,6 +27,7 @@ I'm developing my cybersecurity skills through coursework and practical exercise
 - Communicating incident response and recovery recommendations
 - Inspecting and changing Linux file and directory permissions
 - Applying least privilege to files, hidden files, and directories
+- Filtering structured login and employee records with SQL conditions and logical operators
 
 ## About this portfolio
 
