@@ -27,7 +27,7 @@ The project documents six filtering tasks:
 
 ## Coursework document
 
-[View the completed Apply filters to SQL queries project (PDF)](Apply%20filters%20to%20SQL%20queries.pdf)
+[View the completed Apply filters to SQL queries project (PDF)](apply-filters-to-sql-queries.pdf)
 
 ## Scope
 
